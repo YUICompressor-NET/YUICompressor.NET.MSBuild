@@ -10,4 +10,10 @@ This is an MSBuild Task for helping minify and/or combine JS and CSS using the Y
 Package Name: `YUICompressor.NET.MSBuild`  
 CLI: `install-package YUICompressor.NET.MSBuild`
 
+## Video Tutorials
+
+[![Using YUI Compressor .NET (MSBuild](https://i.imgur.com/m34Hx.png)](http://www.youtube.com/watch?v=sFFZ0nQog8U)
+
+[![(Older video) Using YUI Compressor .NET 1.7 with MSBuild](https://i.imgur.com/T4ULh.png)](https://www.youtube.com/watch?v=Cj8MHPCubuM)
+
 ---
